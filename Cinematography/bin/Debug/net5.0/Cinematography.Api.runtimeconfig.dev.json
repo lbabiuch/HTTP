@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lukba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lukba\\.nuget\\packages"
+    ]
+  }
+}

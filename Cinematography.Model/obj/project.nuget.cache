@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaaIvEPKBoLL37Wspozu4xD9NUClksv++1CHGlzKBuQEc+c8vbxccHp2WpA5WazrljqoSZSQqwgkSy/yjE2Gtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukba\\source\\repos\\Cinematography.Model\\Cinematography.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lukba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

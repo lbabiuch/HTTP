@@ -1,0 +1,8 @@
+C:\Users\lukba\source\repos\Cinematography.Model\bin\Debug\netstandard2.0\Cinematography.Model.deps.json
+C:\Users\lukba\source\repos\Cinematography.Model\bin\Debug\netstandard2.0\Cinematography.Model.dll
+C:\Users\lukba\source\repos\Cinematography.Model\bin\Debug\netstandard2.0\Cinematography.Model.pdb
+C:\Users\lukba\source\repos\Cinematography.Model\obj\Debug\netstandard2.0\Cinematography.Model.AssemblyInfoInputs.cache
+C:\Users\lukba\source\repos\Cinematography.Model\obj\Debug\netstandard2.0\Cinematography.Model.AssemblyInfo.cs
+C:\Users\lukba\source\repos\Cinematography.Model\obj\Debug\netstandard2.0\Cinematography.Model.csproj.CoreCompileInputs.cache
+C:\Users\lukba\source\repos\Cinematography.Model\obj\Debug\netstandard2.0\Cinematography.Model.dll
+C:\Users\lukba\source\repos\Cinematography.Model\obj\Debug\netstandard2.0\Cinematography.Model.pdb
